@@ -44,3 +44,9 @@ Please refer to notebook START.ipynb in order to access the following
     - Single-Qubit Gates
     - Multi-Qubit Gates
     - Solovay-Kitaev Theorem
+
+## Repository Link 📝
+https://github.com/igelover/math-intro-to-qc
+
+## Presentation Video link 📝
+[Video Link](https://youtu.be/BCIGGWDeIVg)
