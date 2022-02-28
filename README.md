@@ -49,4 +49,4 @@ Please refer to notebook START.ipynb in order to access the following
 https://github.com/igelover/math-intro-to-qc
 
 ## Presentation Video link 📝
-[Video Link](https://youtu.be/BCIGGWDeIVg)
+[Video Link](https://youtu.be/4ULmhnoCsKQ)
